@@ -16,7 +16,7 @@
 <!-- Please replace "username/example" with your repository name. -->
 
 ```sh
-ya pkg add vhsdream/nord-polar.yazi
+ya pkg add vhsdream/nord-polar
 ```
 
 ## ⚙️ Usage
